@@ -13,6 +13,7 @@
 		B4F3DB0F28C59E730096EFE2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4F3DB0D28C59E730096EFE2 /* Main.storyboard */; };
 		B4F3DB1128C59E750096EFE2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4F3DB1028C59E750096EFE2 /* Assets.xcassets */; };
 		B4F3DB1428C59E750096EFE2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4F3DB1228C59E750096EFE2 /* LaunchScreen.storyboard */; };
+		B4FF92CD28C79979003CDBC6 /* ComposeDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FF92CC28C79979003CDBC6 /* ComposeDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B4F3DB1028C59E750096EFE2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B4F3DB1328C59E750096EFE2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B4F3DB1528C59E750096EFE2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B4FF92CC28C79979003CDBC6 /* ComposeDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComposeDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B4F3DB0728C59E730096EFE2 /* AppDelegate.swift */,
 				B4F3DB0928C59E730096EFE2 /* SceneDelegate.swift */,
 				B4F3DB0B28C59E730096EFE2 /* ViewController.swift */,
+				B4FF92CC28C79979003CDBC6 /* ComposeDelegate.swift */,
 				B4F3DB0D28C59E730096EFE2 /* Main.storyboard */,
 				B4F3DB1028C59E750096EFE2 /* Assets.xcassets */,
 				B4F3DB1228C59E750096EFE2 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B4F3DB0C28C59E730096EFE2 /* ViewController.swift in Sources */,
+				B4FF92CD28C79979003CDBC6 /* ComposeDelegate.swift in Sources */,
 				B4F3DB0828C59E730096EFE2 /* AppDelegate.swift in Sources */,
 				B4F3DB0A28C59E730096EFE2 /* SceneDelegate.swift in Sources */,
 			);
